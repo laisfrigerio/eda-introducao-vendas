@@ -41,6 +41,7 @@ dict_faturamento = {
         995000,
         ]
 }
+```
 
 ## Stack
 
